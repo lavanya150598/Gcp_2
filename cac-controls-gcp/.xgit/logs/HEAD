@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 5fbbf35ade6e7b83daa691987d52d560aed45a75 gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709562354 -0500	clone: from https://github.com/TD-Enterprise/cac-controls-gcp.git
+5fbbf35ade6e7b83daa691987d52d560aed45a75 5fbbf35ade6e7b83daa691987d52d560aed45a75 gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709562396 -0500	checkout: moving from main to feat/codeowners
+5fbbf35ade6e7b83daa691987d52d560aed45a75 77c1cb323cb23f0b5636db99cd4af517f2f046d3 gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709563327 -0500	commit: Adding Codeonwers File
+77c1cb323cb23f0b5636db99cd4af517f2f046d3 5fbbf35ade6e7b83daa691987d52d560aed45a75 gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709660185 -0500	checkout: moving from feat/codeowners to main
+5fbbf35ade6e7b83daa691987d52d560aed45a75 5bd4515a8c7eda3c4278ffd16ca7cf2604e31eaf gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709660206 -0500	pull origin main: Fast-forward
+5bd4515a8c7eda3c4278ffd16ca7cf2604e31eaf 5bd4515a8c7eda3c4278ffd16ca7cf2604e31eaf gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709660238 -0500	checkout: moving from main to feat/dply-ctrls-verify
+5bd4515a8c7eda3c4278ffd16ca7cf2604e31eaf a51b9214a84a0f702d4e19aaedd246d3d0579da6 gurijk6_tdbank <koushik.gurijalareddyyachendra@td.com> 1709660331 -0500	commit: Added a comment to verify codeowners and environment approvals
