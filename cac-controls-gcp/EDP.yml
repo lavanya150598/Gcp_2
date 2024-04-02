@@ -1,0 +1,11 @@
+edpVersion: '3.0'
+
+development:
+  autoRelease: false
+  branch: develop
+  version: 1.0.0-SNAPSHOT
+  versionInc: patch
+
+notifications:
+  teams:
+    webhook: placeholder

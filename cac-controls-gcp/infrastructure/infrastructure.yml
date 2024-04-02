@@ -1,0 +1,21 @@
+infrastructure:
+  dev:
+    dev:
+      foundation:
+        cloudVenue: google
+        cloudVenueEnv: englab
+        tfOrganization: TD_ENTERPRISE_GCP
+        tfWorkspace: cac-controls-gcp-dev-foundation
+        projectId: "prj-b-gcp-seed-226d"
+    qa:
+      foundation:
+        cloudVenue: google
+        cloudVenueEnv: qa
+        tfOrganization: TD_ENTERPRISE_GCP
+        projectId: "prj-b-gcp-seed-3572"
+  prod:
+    foundation:
+      cloudVenue: google
+      cloudVenueEnv: prod
+      tfOrganization: TD_ENTERPRISE_GCP
+      projectId: "prj-b-gcp-seed-c84b"
